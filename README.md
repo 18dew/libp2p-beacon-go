@@ -1,1 +1,1 @@
-# libp2p-beacon-go
+# libp2p-relay-go
